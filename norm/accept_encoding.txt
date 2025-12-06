@@ -1,0 +1,86 @@
+Accept-Encoding: gzip
+Accept-Encoding: deflate
+Accept-Encoding: br
+Accept-Encoding: identity
+Accept-Encoding: *
+Accept-Encoding: gzip, deflate
+Accept-Encoding: gzip, br
+Accept-Encoding: deflate, gzip
+Accept-Encoding: br, gzip, deflate
+Accept-Encoding: gzip, deflate, br
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Encoding: gzip, deflate, br, compress
+Accept-Encoding: gzip, deflate, br, identity
+Accept-Encoding: gzip, deflate, br, zstd, identity
+Accept-Encoding: gzip, compress
+Accept-Encoding: compress, gzip
+Accept-Encoding: gzip, x-gzip
+Accept-Encoding: gzip, x-compress
+Accept-Encoding: gzip, deflate, sdch
+Accept-Encoding: gzip, sdch
+Accept-Encoding: zstd, br, gzip, deflate
+Accept-Encoding: gzip, deflate, lzma
+Accept-Encoding: gzip, deflate, x-lzma
+Accept-Encoding: gzip, br, zstd
+Accept-Encoding: gzip, deflate, zstd
+Accept-Encoding: identity;q=1.0, *;q=0.5
+Accept-Encoding: gzip;q=1.0, deflate;q=0.9
+Accept-Encoding: gzip;q=1.0, br;q=0.5
+Accept-Encoding: gzip;q=1.0, compress;q=0.9, deflate;q=0.8
+Accept-Encoding: br;q=1.0, gzip;q=0.8, deflate;q=0.7
+Accept-Encoding: gzip;q=0.9, br;q=0.8, deflate;q=0.7
+Accept-Encoding: *, gzip;q=0.9
+Accept-Encoding: *, gzip;q=0.9, deflate;q=0.8
+Accept-Encoding: gzip, *
+Accept-Encoding: identity, *
+Accept-Encoding: gzip, deflate, identity
+Accept-Encoding: gzip, br, identity
+Accept-Encoding: gzip, deflate, br, zstd, compress
+Accept-Encoding: gzip, deflate, br, zstd, x-gzip
+Accept-Encoding: gzip, deflate, br, x-br
+Accept-Encoding: br, zstd
+Accept-Encoding: gzip, zstd
+Accept-Encoding: deflate, br
+Accept-Encoding: zstd
+Accept-Encoding: x-lzma
+Accept-Encoding: compress, gzip, br
+Accept-Encoding: gzip, compress, deflate
+Accept-Encoding: gzip, br, compress
+Accept-Encoding: gzip;q=1.0, br;q=0.6, deflate;q=0.3
+Accept-Encoding: br;q=1.0, zstd;q=0.9, gzip;q=0.6
+Accept-Encoding: gzip;q=0.7, deflate;q=0.5
+Accept-Encoding: gzip;q=1.0, identity;q=0.1
+Accept-Encoding: deflate;q=1.0, identity;q=0.5
+Accept-Encoding: gzip;q=1.0, zstd;q=0.7
+Accept-Encoding: gzip;q=1.0, br;q=0.9, zstd;q=0.8
+Accept-Encoding: zstd;q=1.0, gzip;q=0.8, deflate;q=0.5
+Accept-Encoding: compress;q=1.0, gzip;q=0.8
+Accept-Encoding: gzip, deflate, sdch, br, zstd
+Accept-Encoding: gzip, deflate, sdch, x-gzip
+Accept-Encoding: br, identity
+Accept-Encoding: gzip, identity
+Accept-Encoding: deflate, identity
+Accept-Encoding: identity, gzip, deflate
+Accept-Encoding: *, br
+Accept-Encoding: *, gzip, br
+Accept-Encoding: *, gzip, deflate, br
+Accept-Encoding: *, gzip;q=0.8, br;q=0.6
+Accept-Encoding: gzip, deflate, lzma, br
+Accept-Encoding: gzip, deflate, lzma, zstd
+Accept-Encoding: gzip, x-deflate
+Accept-Encoding: br, x-br, gzip
+Accept-Encoding: zstd, x-zstd, gzip
+Accept-Encoding: gzip, deflate, br, zstd, lzma
+Accept-Encoding: gzip, deflate, br, zstd, lzma, identity
+Accept-Encoding: gzip;q=0.9, deflate;q=0.9, br;q=0.9
+Accept-Encoding: gzip;q=0.3, deflate;q=0.4, br;q=0.5, zstd;q=0.6
+Accept-Encoding: gzip;q=0.1, deflate;q=0.2, br;q=0.3
+Accept-Encoding: br;q=0.3, gzip;q=0.2, deflate;q=0.1
+Accept-Encoding: zstd;q=1.0, br;q=0.5
+Accept-Encoding: compress
+Accept-Encoding: gzip, compress
+Accept-Encoding: compress, deflate
+Accept-Encoding: gzip, x-deflate, x-gzip
+Accept-Encoding: deflate, br, zstd
+Accept-Encoding: br, compress
+Accept-Encoding: gzip, compress, identity
