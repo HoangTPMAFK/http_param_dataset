@@ -1,0 +1,254 @@
+123 Maple Street, Springfield, IL 62704, USA
+458 Oak Avenue, Austin, TX 73301, USA
+720 Pine Drive, Denver, CO 80202, USA
+912 Cedar Road, Phoenix, AZ 85001, USA
+540 Birch Lane, Seattle, WA 98101, USA
+230 Willow Street, Miami, FL 33101, USA
+675 Aspen Court, Dallas, TX 75201, USA
+389 Elm Street, Boston, MA 02108, USA
+812 Walnut Avenue, Chicago, IL 60601, USA
+144 River Road, Portland, OR 97201, USA
+92 Hillcrest Drive, San Diego, CA 92101, USA
+250 Highland Avenue, San Jose, CA 95112, USA
+301 Ridge Street, Atlanta, GA 30301, USA
+745 Meadow Lane, Detroit, MI 48201, USA
+501 Sunrise Avenue, Orlando, FL 32801, USA
+248 Sunset Street, Tampa, FL 33601, USA
+182 Evergreen Court, Columbus, OH 43004, USA
+712 Mountain Drive, Salt Lake City, UT 84101, USA
+555 Valley Road, Nashville, TN 37201, USA
+910 Westwood Lane, Charlotte, NC 28202, USA
+120 Forest Avenue, Minneapolis, MN 55401, USA
+447 Mill Street, Baltimore, MD 21201, USA
+338 Summit Road, Portland, ME 04101, USA
+880 Lakeview Court, Madison, WI 53703, USA
+732 Harbor Street, Norfolk, VA 23510, USA
+510 Crestwood Road, Raleigh, NC 27601, USA
+699 Orchard Drive, Kansas City, MO 64101, USA
+421 Sycamore Lane, Phoenix, AZ 85002, USA
+951 Redwood Street, Los Angeles, CA 90001, USA
+604 Cypress Road, San Francisco, CA 94102, USA
+220 Westlake Drive, Sacramento, CA 95814, USA
+890 Fairview Avenue, Indianapolis, IN 46204, USA
+320 Grand Avenue, Tulsa, OK 74103, USA
+488 Lincoln Street, Omaha, NE 68102, USA
+732 Brookside Lane, Boise, ID 83702, USA
+215 Lakeshore Drive, Cleveland, OH 44101, USA
+930 Huntington Road, Pittsburgh, PA 15201, USA
+551 Greenfield Street, Buffalo, NY 14201, USA
+741 Willowbrook Road, Rochester, NY 14604, USA
+840 Cedar Hill Drive, Newark, NJ 07101, USA
+613 Evergreen Avenue, Providence, RI 02903, USA
+200 Riverbend Road, Anchorage, AK 99501, USA
+315 Maplewood Drive, Juneau, AK 99801, USA
+540 Hamilton Street, Honolulu, HI 96801, USA
+780 Pacific Avenue, Long Beach, CA 90802, USA
+155 Northfield Road, Wichita, KS 67202, USA
+650 Autumn Lane, Fargo, ND 58102, USA
+780 Ridgecrest Drive, Billings, MT 59101, USA
+925 Spring Street, Albuquerque, NM 87101, USA
+704 Lake Avenue, Baton Rouge, LA 70801, USA
+202 Highland Court, Little Rock, AR 72201, USA
+334 Bridge Street, Des Moines, IA 50309, USA
+510 Riverside Drive, Louisville, KY 40202, USA
+820 Stonewall Avenue, Memphis, TN 38103, USA
+440 Pinehurst Lane, Richmond, VA 23219, USA
+998 Meadowbrook Drive, Hartford, CT 06103, USA
+22 Baker Street, London NW1 6XE, UK
+14 King Road, Manchester M1 2AB, UK
+84 Elm Court, Birmingham B1 1AA, UK
+55 Park Avenue, Liverpool L1 4AB, UK
+120 River Street, Bristol BS1 1AA, UK
+88 Forest Lane, Leeds LS1 2AB, UK
+92 Regent Road, Newcastle NE1 1AB, UK
+44 Stonehill Avenue, Glasgow G1 1AB, UK
+18 Highland Drive, Edinburgh EH1 1YZ, UK
+73 Maple Crescent, Cardiff CF10 1AA, UK
+112 Friedrichstrasse, Berlin 10117, Germany
+88 Hauptstrasse, Munich 80331, Germany
+50 Gartenweg, Hamburg 20095, Germany
+91 Waldstrasse, Frankfurt 60311, Germany
+74 Bismarckstrasse, Cologne 50667, Germany
+29 Mozartstrasse, Stuttgart 70173, Germany
+65 Rheinstrasse, Dusseldorf 40210, Germany
+12 Schillerplatz, Dresden 01067, Germany
+48 Beethovenstrasse, Hannover 30159, Germany
+90 Lindenallee, Leipzig 04103, Germany
+22 Rue Lafayette, Paris 75009, France
+88 Avenue Victor Hugo, Paris 75116, France
+15 Rue de Lyon, Marseille 13001, France
+31 Boulevard Clemenceau, Lyon 69003, France
+47 Rue du Port, Lille 59000, France
+19 Rue de la Gare, Nice 06000, France
+63 Avenue du Parc, Toulouse 31000, France
+52 Rue Nationale, Bordeaux 33000, France
+29 Rue de Provence, Nantes 44000, France
+88 Via Roma, Rome 00184, Italy
+44 Via Milano, Milan 20121, Italy
+73 Via Torino, Turin 10121, Italy
+91 Via del Mare, Naples 80133, Italy
+35 Via Venezia, Venice 30121, Italy
+57 Via Firenze, Florence 50123, Italy
+11 Via Bologna, Genoa 16121, Italy
+82 Via Verona, Verona 37121, Italy
+64 Via Trieste, Trieste 34121, Italy
+20 Calle Mayor, Madrid 28013, Spain
+71 Calle de Serrano, Madrid 28001, Spain
+55 Calle de Alcala, Madrid 28014, Spain
+94 Carrer de Mallorca, Barcelona 08036, Spain
+18 Carrer de Valencia, Barcelona 08007, Spain
+39 Avenida de Andalucia, Malaga 29006, Spain
+10 Calle Real, Sevilla 41001, Spain
+48 Calle del Mar, Valencia 46001, Spain
+27 Calle Norte, Bilbao 48001, Spain
+89 Piazza Wolnosci, Warsaw 00-001, Poland
+44 Ulica Krakowska, Krakow 31-001, Poland
+71 Ulica Wroclawska, Wroclaw 50-001, Poland
+53 Ulica Gdanska, Gdansk 80-001, Poland
+90 Ulica Rzeszowska, Rzeszow 35-001, Poland
+27 Ulica Sloneczna, Poznan 60-001, Poland
+18 Skeppsbron, Stockholm 11130, Sweden
+55 Storgatan, Gothenburg 41124, Sweden
+99 Kungsgatan, Stockholm 11143, Sweden
+42 Ringvagen, Malmo 21141, Sweden
+11 Karl Johans Gate, Oslo 0154, Norway
+72 Storgata, Oslo 0182, Norway
+39 Bryggen Street, Bergen 5003, Norway
+65 Sondregate, Trondheim 7010, Norway
+90 Fjordveien, Stavanger 4006, Norway
+28 Damrak Street, Amsterdam 1012, Netherlands
+41 Prinsengracht, Amsterdam 1015, Netherlands
+72 Keizersgracht, Amsterdam 1016, Netherlands
+55 Stationsplein, Rotterdam 3013, Netherlands
+88 Hofplein, Rotterdam 3032, Netherlands
+31 Lange Poten, The Hague 2511, Netherlands
+12 Nguyen Trai, Quan 1, Ho Chi Minh
+45 Le Loi, Quan 1, Ho Chi Minh
+78 Tran Hung Dao, Quan 5, Ho Chi Minh
+92 Cach Mang Thang 8, Quan 3, Ho Chi Minh
+55 Dien Bien Phu, Quan Binh Thanh, Ho Chi Minh
+33 Dinh Tien Hoang, Quan 1, Ho Chi Minh
+29 Nguyen Thi Minh Khai, Quan 1, Ho Chi Minh
+64 Hai Ba Trung, Quan 3, Ho Chi Minh
+88 Vo Van Tan, Quan 3, Ho Chi Minh
+101 Hoang Sa, Quan 1, Ho Chi Minh
+12 Pho Hue, Quan Hai Ba Trung, Ha Noi
+55 Kim Ma, Quan Ba Dinh, Ha Noi
+88 Lang Ha, Quan Dong Da, Ha Noi
+72 Cau Giay, Quan Cau Giay, Ha Noi
+91 Nguyen Chi Thanh, Quan Dong Da, Ha Noi
+45 Le Duan, Quan Hoan Kiem, Ha Noi
+30 Hang Bong, Quan Hoan Kiem, Ha Noi
+67 Tran Duy Hung, Quan Cau Giay, Ha Noi
+25 Thanh Nien, Quan Tay Ho, Ha Noi
+80 Ho Tung Mau, Quan Nam Tu Liem, Ha Noi
+14 Le Loi, Thanh Khe, Da Nang
+28 Hoang Dieu, Hai Chau, Da Nang
+62 Nguyen Van Linh, Hai Chau, Da Nang
+45 Tran Phu, Hai Chau, Da Nang
+88 Dien Bien Phu, Thanh Khe, Da Nang
+70 Vo Nguyen Giap, Son Tra, Da Nang
+33 Nguyen Tat Thanh, Lien Chieu, Da Nang
+21 Le Duan, Hai Chau, Da Nang
+55 Nguyen Huu Tho, Cam Le, Da Nang
+77 Hung Vuong, Hai Chau, Da Nang
+742 Evergreen Terrace, Springfield, OR 97477, USA
+510 River Park Drive, Tampa, FL 33602, USA
+290 Westlake Street, Seattle, WA 98109, USA
+815 Canyon Road, Phoenix, AZ 85003, USA
+1200 Forest Ridge Lane, Denver, CO 80203, USA
+404 Brookview Drive, Dallas, TX 75205, USA
+325 Elm Ridge Street, Houston, TX 77002, USA
+912 Summit Avenue, Salt Lake City, UT 84111, USA
+255 Riverside Lane, Cincinnati, OH 45202, USA
+733 Highland Road, Cleveland, OH 44114, USA
+420 Valley View Street, Atlanta, GA 30303, USA
+877 Lakewood Circle, Miami, FL 33130, USA
+690 Mountain Crest Road, Charlotte, NC 28203, USA
+520 Meadowbrook Avenue, Nashville, TN 37212, USA
+310 Greenway Court, Portland, OR 97205, USA
+135 Westwood Street, Boston, MA 02115, USA
+810 Pineforest Road, Madison, WI 53711, USA
+980 Mapleleaf Street, Detroit, MI 48226, USA
+230 Sunrise Court, Orlando, FL 32803, USA
+457 Cedar Grove Lane, Newark, NJ 07104, USA
+760 Hilltop Road, Omaha, NE 68106, USA
+645 Autumn Ridge Street, Phoenix, AZ 85014, USA
+398 Riverwoods Lane, Indianapolis, IN 46225, USA
+588 Sunset Ridge Drive, Los Angeles, CA 90012, USA
+340 Crestline Road, Sacramento, CA 95816, USA
+700 Silverlake Drive, San Jose, CA 95126, USA
+215 Clearwater Drive, Austin, TX 78701, USA
+633 Greenpoint Avenue, Chicago, IL 60622, USA
+980 Maple Creek Lane, Kansas City, MO 64108, USA
+510 Harborview Street, Norfolk, VA 23502, USA
+312 Pine Ridge Court, Richmond, VA 23220, USA
+875 Timberline Road, Minneapolis, MN 55408, USA
+234 Northgate Avenue, Pittsburgh, PA 15222, USA
+712 Broadview Lane, Buffalo, NY 14209, USA
+441 Brooklane Street, Rochester, NY 14607, USA
+78 Wellington Street, London E1 7AA, UK
+93 Oxford Road, Manchester M1 5AN, UK
+112 Queens Gate, Liverpool L2 3AB, UK
+37 Belmont Avenue, Birmingham B2 4AB, UK
+54 Riverside Street, Bristol BS2 8AA, UK
+19 Gartenstrasse, Berlin 10115, Germany
+28 Lindenstrasse, Munich 80333, Germany
+66 Parkstrasse, Frankfurt 60313, Germany
+12 Beethovenplatz, Hamburg 20095, Germany
+41 Kaiserstrasse, Cologne 50670, Germany
+33 Rue de Rivoli, Paris 75004, France
+58 Rue de Bretagne, Paris 75003, France
+14 Avenue de Lyon, Lyon 69002, France
+72 Rue du Midi, Marseille 13002, France
+27 Rue du Port, Bordeaux 33000, France
+88 Via Dante, Rome 00185, Italy
+41 Via Garibaldi, Milan 20124, Italy
+59 Via Napoli, Naples 80132, Italy
+33 Via Toscana, Florence 50127, Italy
+22 Via Trento, Turin 10128, Italy
+10 Calle Sol, Madrid 28002, Spain
+98 Calle Marina, Barcelona 08025, Spain
+44 Calle Sur, Valencia 46003, Spain
+62 Avenida Castilla, Bilbao 48002, Spain
+53 Calle Norte, Malaga 29010, Spain
+81 Ulica Poznanska, Warsaw 00-680, Poland
+33 Ulica Spacerowa, Krakow 31-008, Poland
+104 Ulica Mickiewicza, Gdansk 80-400, Poland
+17 Ulica Polna, Wroclaw 50-200, Poland
+85 Ulica Lubelska, Lublin 20-100, Poland
+19 Keizersstraat, Amsterdam 1013, Netherlands
+51 Prinsengracht, Amsterdam 1016, Netherlands
+32 Willemsstraat, Rotterdam 3016, Netherlands
+78 Lange Poten, The Hague 2511, Netherlands
+47 Kerkstraat, Utrecht 3511, Netherlands
+22 Norra Hamngatan, Gothenburg 41106, Sweden
+41 Malmskillnadsgatan, Stockholm 11157, Sweden
+16 Hjalmar Johans Gate, Oslo 0160, Norway
+73 Fjordvegen, Bergen 5005, Norway
+33 Havnegata, Trondheim 7011, Norway
+27 Nguyen Van Troi, Phu Nhuan, Ho Chi Minh
+88 Truong Sa, Binh Thanh, Ho Chi Minh
+54 Nguyen Oanh, Go Vap, Ho Chi Minh
+199 Quang Trung, Go Vap, Ho Chi Minh
+142 To Hien Thanh, Quan 10, Ho Chi Minh
+75 Le Hong Phong, Quan 5, Ho Chi Minh
+23 Nguyen Dinh Chieu, Quan 3, Ho Chi Minh
+64 Hoang Dieu 2, Thu Duc, Ho Chi Minh
+91 Le Van Viet, Thu Duc, Ho Chi Minh
+11 Tran Quang Khai, Quan 1, Ho Chi Minh
+22 Kim Ma Thuong, Ba Dinh, Ha Noi
+90 Nguyen Trai, Thanh Xuan, Ha Noi
+41 Chua Lang, Dong Da, Ha Noi
+88 Trung Kinh, Cau Giay, Ha Noi
+14 Tran Thai Tong, Cau Giay, Ha Noi
+55 Hai Ba Trung, Hoan Kiem, Ha Noi
+23 Pho Hue, Hai Ba Trung, Ha Noi
+77 Giai Phong, Hoang Mai, Ha Noi
+81 Quan Thanh, Ba Dinh, Ha Noi
+35 Hoang Cau, Dong Da, Ha Noi
+18 Le Duan, Hai Chau, Da Nang
+31 Nguyen Huu Tho, Cam Le, Da Nang
+70 Vo Nguyen Giap, Son Tra, Da Nang
+49 Nguyen Van Linh, Hai Chau, Da Nang
+26 Hoang Hoa Tham, Thanh Khe, Da Nang
