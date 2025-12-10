@@ -5273,3 +5273,4 @@ Source: Koumoundouros, T. (2025, November 30). Wild Pigs Turned 'Neon Blue' in C
 If you want to use your model on TF Serving, remember that it will call your SavedModel through one of its named signatures. In Python, you can test them as follows:
 Plot the accuracy and loss over time
 Use the deployed model to perform an automated predictive task.
+DROP TABLE accounts;

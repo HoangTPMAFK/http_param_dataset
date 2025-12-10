@@ -11,9 +11,17 @@ PREFIX_MAP = {
     "message": ["msg: ", "message: ", "txt: ", "content: ", "text: "],
     "name": ["name: ", "fname: ", "username: ", "lname: ", "fullname: "],
     "address": ["address: ", "addr: "],
-    "email": ["email: "],
+    "email": ["email: ", "mail: "],
+    "accept_encoding": ["Accept-Encoding: "],
+    "accept_language": ["Accept-Language: "],
     "phone_number": ["phonenumber: ", "number: ", "phone: ", "sdt: ", "sodienthoai: "],
     "content_type": ["Content-Type: "],
+    "user_agent": ["User-Agent: "],
+    "postal_code": ["postalcode: ", "zipcode: ", "zip: ", "postal: ", "code: "],
+    "sqli": ["password: ", "code: ", "secret: ", "pwd: ", "pass: ", "msg: ", "message: ", "txt: ", "content: ", "text: ", "name: ", "fname: ", "username: ", "lname: ", "fullname: ", "address: ", "addr: ", "email: ", "phonenumber: ", "number: ", "phone: ", "sdt: ", "sodienthoai: ", "Content-Type: ", "postalcode: ", "zipcode: ", "zip: ", "postal: ", "Content-Type: ", "Accept-Encoding: ", "Accept-Language: ", "User-Agent: "],
+    "xss": ["password: ", "code: ", "secret: ", "pwd: ", "pass: ", "msg: ", "message: ", "txt: ", "content: ", "text: ", "name: ", "fname: ", "username: ", "lname: ", "fullname: ", "address: ", "addr: ", "email: ", "phonenumber: ", "number: ", "phone: ", "sdt: ", "sodienthoai: ", "Content-Type: ", "postalcode: ", "zipcode: ", "zip: ", "postal: ", "Content-Type: ", "Accept-Encoding: ", "Accept-Language: ", "User-Agent: "],
+    "path_traversal": ["password: ", "code: ", "secret: ", "pwd: ", "pass: ", "msg: ", "message: ", "txt: ", "content: ", "text: ", "name: ", "fname: ", "username: ", "lname: ", "fullname: ", "address: ", "addr: ", "email: ", "phonenumber: ", "number: ", "phone: ", "sdt: ", "sodienthoai: ", "Content-Type: ", "postalcode: ", "zipcode: ", "zip: ", "postal: ", "Content-Type: ", "Accept-Encoding: ", "Accept-Language: ", "User-Agent: "],
+    "cmdi": ["password: ", "code: ", "secret: ", "pwd: ", "pass: ", "msg: ", "message: ", "txt: ", "content: ", "text: ", "name: ", "fname: ", "username: ", "lname: ", "fullname: ", "address: ", "addr: ", "email: ", "phonenumber: ", "number: ", "phone: ", "sdt: ", "sodienthoai: ", "Content-Type: ", "postalcode: ", "zipcode: ", "zip: ", "postal: ", "Content-Type: ", "Accept-Encoding: ", "Accept-Language: ", "User-Agent: "],
 }
 
 def add_prefix(filepath: str, text: str):
@@ -49,6 +57,21 @@ def read_norm_txt(filepath: str):
                 "label": "normal"
             }
 
+def read_norm_txt_2(filepath: str):
+    with open(filepath, "r", encoding="utf-8") as file:
+        for line in file:
+            line = line.strip()
+            if not line:
+                continue
+
+            # thêm prefix
+            payload = line
+
+            yield {
+                "payload": payload,
+                "type": os.path.basename(filepath).split('.')[0],
+                "label": "normal"
+            }
 
 # =========================
 # READ MALICIOUS
@@ -63,6 +86,22 @@ def read_anom_txt(filepath: str):
 
             # thêm prefix
             payload = add_prefix(filepath, line)
+
+            yield {
+                "payload": payload,
+                "type": os.path.basename(filepath).split('.')[0],
+                "label": "malicious"
+            }
+
+def read_anom_txt_2(filepath: str):
+    with open(filepath, "r", encoding="utf-8") as file:
+        for line in file:
+            line = line.strip()
+            if not line:
+                continue
+
+            # thêm prefix
+            payload = line
 
             yield {
                 "payload": payload,
@@ -95,10 +134,15 @@ def append_folder_to_csv(folder: str, label: str, csv_file="data.csv"):
             if label == "malicious":
                 for row in read_anom_txt(filepath):
                     writer.writerow(row)
+
+                for row in read_anom_txt_2(filepath):
+                    writer.writerow(row)
             else:
                 for row in read_norm_txt(filepath):
                     writer.writerow(row)
 
+                for row in read_norm_txt_2(filepath):
+                    writer.writerow(row)
     print(f"➡ Đã thêm dữ liệu từ thư mục '{folder}/' vào '{csv_file}'")
 
 
